@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/graph-plotting-in-python-set-1/ ==> trentd
+
+https://vincentarelbundock.github.io/Rdatasets/datasets.html ==> dataset for linear regression
